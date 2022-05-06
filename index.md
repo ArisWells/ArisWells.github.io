@@ -4,26 +4,42 @@
 
 ### Projects 
 
-[CityPal](/sample_page)
+[CityPal app design](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Dashboard for Austin Pets Alive!](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Dinosaur Experience](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+[OffTime app design](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+[Evaluation of grocery store app](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Voyage app design](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Direct Links
+
+- [CityPal app design](http://example.com/)
+- [Dashboard for Austin Pets Alive!](http://example.com/)
+- [Dinosaur Experience](http://example.com/)
+- [OffTime app design](http://example.com/)
+- [Evaluation of grocery store app](http://example.com/)
+- [Voyage app design](http://example.com/)
 
 ---
 
