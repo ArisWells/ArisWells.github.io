@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[CityPal app design](/sample_page)
+[CityPal app design](/citypal_app)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-[OffTime app design](/sample_page)
+[OffTime app design](/offtime_app)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -27,14 +27,14 @@
 
 ---
 
-[Voyage app design](/sample_page)
+[Voyage app design](/voyage_app)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Direct Links
 
-- [CityPal app design](http://example.com/)
+- [CityPal app design](/citypal)
 - [Dashboard for Austin Pets Alive!](http://example.com/)
 - [Dinosaur Experience](http://example.com/)
 - [OffTime app design](http://example.com/)
