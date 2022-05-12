@@ -1,11 +1,11 @@
 title: Aris Wells # your name (or website title) here
 logo: "/images/Aris DSC_9832s.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Welcome to my digital portfolio! 
   <br><br>
-  Second description 
+  My name is Aris Wells and I am a spring 2022 graduate of the Master of Science in Information Studies (MSIS) program at the University of Texas at Austin. I earned my Bachelor of Sciences in Physics from Southwestern University.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  During my time at UT I have been exposed to several different ways information can be presented 
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
