@@ -19,11 +19,6 @@
 
 ---
 
-[OffTime app design](/offtime_app)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 
 
 
