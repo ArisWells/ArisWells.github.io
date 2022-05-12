@@ -10,7 +10,7 @@
 ---
 
 [pistis.ai - Dashboard for Explainable AI](/pistis_ai)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pistisai icu poster.png?raw=true"/>
 
 ---
 
