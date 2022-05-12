@@ -9,12 +9,7 @@
 
 ---
 
-[Dashboard for ](/pistis_ai)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-[OffTime app design](/offtime_app)
+[pistis.ai - Dashboard for Explainable AI](/pistis_ai)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -24,12 +19,8 @@
 
 ---
 
-### Direct Links
-
-- [CityPal app design](/citypal)
-- [Austin Pets Alive! Dashboard](/offtime_app)
-- [OffTime app design](/offtime_app)
-- [Voyage app design](/voyage_app)
+[OffTime app design](/offtime_app)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
