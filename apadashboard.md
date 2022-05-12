@@ -12,4 +12,4 @@ if (isAwesome){
 }
 ```
 
-<img src="images/apadashboard.png?raw=true"/>
+<img src="images/apadashboard.png"/>
