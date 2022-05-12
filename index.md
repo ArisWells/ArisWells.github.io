@@ -19,7 +19,7 @@
 
 ---
 
-[Voyage app design](/voyage_app)
+[Voyage app design]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
