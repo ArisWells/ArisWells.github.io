@@ -9,17 +9,17 @@
 
 ---
 
+[Dashboard for ](/pistis_ai)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 [OffTime app design](/offtime_app)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 [Austin Pets Alive! Dashboard](/apadashboard)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-[Voyage app design]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
