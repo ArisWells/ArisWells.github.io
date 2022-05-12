@@ -5,7 +5,7 @@
 ### Projects 
 
 [CityPal app design](/citypal_app)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/CityPal Final Presentation.png"/>
 
 ---
 
