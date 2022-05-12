@@ -15,7 +15,7 @@
 ---
 
 [Austin Pets Alive! Dashboard](/apadashboard)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/apadashboad.png?raw=true"/>
 
 ---
 
